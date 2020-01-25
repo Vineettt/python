@@ -1,0 +1,6 @@
+The host is: up.
+The port 80 is: open.
+The method of scanning is: syn-ack.
+There is a 98 percent chance that the host is running Oracle Virtualbox.
+
+Report generated 2020-01-03_12:58:44 GMT
